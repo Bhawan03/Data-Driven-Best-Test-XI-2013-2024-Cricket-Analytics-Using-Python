@@ -5,4 +5,5 @@ Built using Python (Pandas, NumPy, Matplotlib). Visual comparisons support every
 
 The aim is simple: let statistics decide the team.
 
-![Uploading ChatGPT Image Dec 9, 2025, 05_18_50 PM.png…]()
+
+<img width="1536" height="1024" alt="ChatGPT Image Dec 9, 2025, 05_18_50 PM" src="https://github.com/user-attachments/assets/c23f39a6-ab4f-43a1-a455-1e4a2c8f656c" />
